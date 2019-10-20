@@ -1,0 +1,18 @@
+#Header {
+  display: flex;
+  margin: 10px 10%;
+  align-items: center;
+
+  @media screen and (max-width:667px) {
+    margin: 10px 2%;
+  }
+
+  .title {
+    flex-grow: 2;
+  }
+
+  .subtitle {
+    margin-right: 10px;
+    font-size: 1.2em;
+  }
+}
