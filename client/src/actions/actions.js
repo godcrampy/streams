@@ -1,0 +1,1 @@
+export const SET_IS_SIGNED_IN = 'SET_IS_SIGNED_IN';
